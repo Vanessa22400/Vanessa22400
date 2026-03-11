@@ -11,8 +11,6 @@ Having lived and worked in different countries for several years has also shaped
 
 I develop analytical projects inspired by real-world questions, combining data exploration, statistical methods, visualization and machine learning to investigate patterns and transform complex datasets into clear and actionable insights.
 
----
-
 ## Tools & Technologies
 
 **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL
@@ -25,8 +23,6 @@ I develop analytical projects inspired by real-world questions, combining data e
 
 **Tools**, Git & GitHub, Jupyter / Google Colab, BigQuery, Advanced Excel
 
----
-
 ## Focus Areas
 
 - Data Analysis
@@ -35,13 +31,9 @@ I develop analytical projects inspired by real-world questions, combining data e
 - Data Visualization & Storytelling
 - Data-Driven Decision Making
 
----
-
-- ## Languages
+ ## Languages
 
 Portuguese (native) | English (fluent)  | Spanish (fluent)  | German (intermediate)
-
----
 
 ## Contact
 
