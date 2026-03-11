@@ -2,6 +2,7 @@
 Data Analyst | Python • SQL • Analytics | Machine Learning | Production Engineer  
 LinkedIn: https://www.linkedin.com 
 
+---
 Hi there 👋 I am a Data Analyst with a background in Production Engineering, specializing in Analytics and Data Science. My work focuses on transforming data into insights that support informed decision-making.
 
 I started working with data while contributing to a startup environment, where I analyzed user behavior, product KPIs and performance metrics to support business strategy. Over time, I deepened my work with Python, SQL, statistical methods and machine learning to investigate patterns, structure analytical workflows and develop predictive models.
