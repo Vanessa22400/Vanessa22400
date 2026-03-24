@@ -1,6 +1,6 @@
 # Vanessa Donato
 Data Analyst | Python • SQL • Analytics | Machine Learning  
-LinkedIn: https://www.linkedin.com 
+LinkedIn: https://www.linkedin.com/in/vanessadonato/ 
 
 
 ---
@@ -49,7 +49,7 @@ Analysis of educational indicators to understand how performance, development an
 ### Tools & Technologies
 
 - Python (Pandas, NumPy, Scikit-learn), SQL  
-- Machine Learning, Feature Engineering, Model Evaluation  
+- Machine Learning (regression, classification, clustering), Gradient Boosting (XGBoost, LightGBM, CatBoost), Feature Engineering, Model Evaluation
 - EDA, Statistical Analysis, Business Metrics  
 - Power BI, Matplotlib, Seaborn, Plotly  
 - Git, GitHub, BigQuery, Excel  
