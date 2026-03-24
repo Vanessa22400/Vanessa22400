@@ -1,5 +1,5 @@
 # Vanessa Donato
-Data Analyst | Python • SQL • Analytics | Machine Learning | Production Engineer  
+Data Analyst | Python • SQL • Analytics | Machine Learning 
 LinkedIn: https://www.linkedin.com 
 
 ---
@@ -14,7 +14,6 @@ Experience working with Python, SQL, statistical analysis and machine learning t
 - EDA, Statistical Analysis, Business Metrics  
 - Power BI, Matplotlib, Seaborn, Plotly  
 - Git, GitHub, BigQuery, Excel  
-
 
  ### Languages
 
