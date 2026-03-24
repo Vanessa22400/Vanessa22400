@@ -1,6 +1,7 @@
 # Vanessa Donato
-Data Analyst | Python • SQL • Analytics | Machine Learning 
+Data Analyst | Python • SQL • Analytics | Machine Learning  
 LinkedIn: https://www.linkedin.com 
+
 
 ---
 Data Analyst with a background in Production Engineering, focused on transforming data into actionable insights.
