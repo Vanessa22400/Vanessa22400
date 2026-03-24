@@ -4,7 +4,7 @@ LinkedIn: https://www.linkedin.com
 
 
 ---
-Data Analyst with a background in Production Engineering, focused on transforming data into actionable insights.
+Data Analyst with a background in Production Engineering, focused on transforming data into actionable insights.  
 
 Experience working with Python, SQL, statistical analysis and machine learning to explore patterns, analyze business metrics and support data-driven decision-making.
 
