@@ -10,14 +10,14 @@ Experience working with Python, SQL, statistical analysis and machine learning t
 
 ## Projects
 
-### Railway Delay Analysis in Tübingen - Germany
+### Railway Delay Analysis & Predictive Modeling - Tübingen, Germany
 First stage of a two-part analysis of railway delays to understand punctuality patterns and passenger impact in the German railway network (Deutsche Bahn).  
 - 24k+ records analyzed (12 months of operations)
 - EDA, hypothesis testing, Random Forest modeling
 - Achieved 82% accuracy in predicting critical delays  
 [View Project](https://github.com/Vanessa22400/Railway_Delay-Analysis_DB)
 
-### Railway Delay Modeling & Explainability - Germany
+### Railway Delay Prediction & Explainability - Tübingen, Germany
 Continuation of the previous project with advanced machine learning models and SHAP analysis to improve delay prediction and interpret key drivers.  
 - Boosting models (XGBoost, LightGBM, CatBoost)
 - Feature engineering and model comparison
