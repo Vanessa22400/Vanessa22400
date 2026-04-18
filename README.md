@@ -46,13 +46,6 @@ Time series analysis to understand long-term rental price trends and support hou
 - Forecast suggests prices may reach ~R$60/m² by 2027  
 [View Project](https://github.com/Vanessa22400/Rental_Price_Forecast_Rio_de_Janeiro)
 
-### School Dropout and Educational Performance - Brazil
-Analysis of educational indicators to understand how performance, development and resource distribution relate to school dropout patterns.
-- Data from 10 Brazilian states (simulated dataset)
-- EDA, correlation analysis and regression modeling
-- Identification of key factors associated with dropout and educational outcomes  
-[View Project](https://github.com/Vanessa22400/Educational_Performance_in_Brazil)
-
 
 ## Tools & Technologies
 
