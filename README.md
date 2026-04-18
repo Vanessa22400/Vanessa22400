@@ -30,7 +30,7 @@ Analysis of healthcare cost drivers and high-cost claim risk using data analytic
 - Risk and customer segmentation identify distinct behavioral profiles and cost concentration  
 - Regression, Random Forest and classification models support cost prediction and claim risk detection  
 - Threshold tuning improves decision-making by balancing risk detection and false alerts   
-[View Project]([https://github.com/Vanessa22400/Insurance_Risk_Analytics])
+[View Project](https://github.com/Vanessa22400/Insurance_Risk_Analytics)
 
 ### Preventive Health Analytics
 Analysis of healthcare cost drivers to support prevention strategies and population health insights using statistical methods and machine learning to support prevention strategies.
