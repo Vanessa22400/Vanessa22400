@@ -8,6 +8,8 @@ Data Analyst with a background in Production Engineering, focused on transformin
 
 Experience working with Python, SQL, statistical analysis and machine learning to explore patterns, analyze business metrics and support data-driven decision-making.
 
+Also experienced in building interactive data applications to translate analytical insights into practical tools.
+
 ## Projects
 
 ### Railway Delay Analysis & Predictive Modeling - Tübingen, Germany
@@ -24,13 +26,14 @@ Continuation of the previous project with advanced machine learning models and S
 - Best model achieved MAE of 2.30 minutes for delay prediction  
 [View Project](https://github.com/Vanessa22400/Railway_Delay_Advanced_Analysis_DB)
 
-### Insurance Claim Risk Analytics
+### Insurance Claim Risk Analytics + Interactive Simulator
 Analysis of healthcare cost drivers and high-cost claim risk using data analytics and machine learning.
 - Smoking increases costs by ~$23,500 per year (~4x higher), driving high-cost claims  
 - Risk and customer segmentation identify distinct behavioral profiles and cost concentration  
 - Regression, Random Forest and classification models support cost prediction and claim risk detection  
-- Threshold tuning improves decision-making by balancing risk detection and false alerts   
-[View Project](https://github.com/Vanessa22400/Insurance_Risk_Analytics)
+- Threshold tuning improves decision-making by balancing risk detection and false alerts
+- Built an interactive application using Streamlit to simulate cost prediction and risk scenarios   
+[Analytics Project](https://github.com/Vanessa22400/Insurance_Risk_Analytics) | [Interactive App](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
 ### Preventive Health Analytics
 Analysis of healthcare cost drivers to support prevention strategies and population health insights using statistical methods and machine learning to support prevention strategies.
@@ -52,7 +55,8 @@ Time series analysis to understand long-term rental price trends and support hou
 - Python (Pandas, NumPy, Scikit-learn), SQL  
 - Machine Learning (regression, classification, clustering), Gradient Boosting (XGBoost, LightGBM, CatBoost), Feature Engineering, Model Evaluation
 - EDA, Statistical Analysis, Business Metrics  
-- Power BI, Matplotlib, Seaborn, Plotly  
+- Power BI, Matplotlib, Seaborn, Plotly
+- Streamlit (interactive applications, deployment)
 - Git, GitHub, BigQuery, Excel  
 
  ## Languages
