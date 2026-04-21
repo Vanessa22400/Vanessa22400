@@ -29,10 +29,10 @@ Continuation of the previous project with advanced machine learning models and S
 ### Insurance Claim Risk Analytics + Interactive Simulator
 Analysis of healthcare cost drivers and high-cost claim risk using data analytics and machine learning.
 - Smoking increases costs by ~$23,500 per year (~4x higher), driving high-cost claims  
-- Risk and customer segmentation identify distinct behavioral profiles and cost concentration  
+- Risk and customer segmentation reveal distinct behavioral profiles and cost concentration 
 - Regression, Random Forest and classification models support cost prediction and claim risk detection  
-- Threshold tuning improves decision-making by balancing risk detection and false alerts
-- Built an interactive application using Streamlit to simulate cost prediction and risk scenarios   
+- Threshold tuning improves decision-making by balancing detection and false alerts
+- Built an interactive Streamlit application to simulate cost prediction and highlight prevention-oriented insights 
 [Analytics Project](https://github.com/Vanessa22400/Insurance_Risk_Analytics) | [Interactive App](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
 ### Preventive Health Analytics
