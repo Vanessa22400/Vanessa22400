@@ -10,19 +10,14 @@ LinkedIn: https://www.linkedin.com/in/vanessadonato/
 
 ## Projects
 
-### Railway Delay Analysis & Predictive Modeling - Tübingen, Germany
-First stage of a two-part analysis of railway delays to understand punctuality patterns and passenger impact in the German railway network (Deutsche Bahn).  
-- 24k+ records analyzed (12 months of operations)
-- EDA, hypothesis testing, Random Forest modeling
-- Achieved **82% accuracy** in predicting critical delays  
-[View Project](https://github.com/Vanessa22400/Railway_Delay-Analysis_DB)
+### Railway Delay Analysis & Predictive Modeling + Explainability - Tübingen, Germany
+Two-stage analytics and machine learning project analyzing delays and predicting operational disruption patterns in the German railway network (Deutsche Bahn).
 
-### Railway Delay Prediction & Explainability - Tübingen, Germany
-Continuation of the previous project with advanced machine learning models to improve delay prediction and interpret key drivers.  
-- Compared boosting models (XGBoost, LightGBM, CatBoost) and feature engineering strategies
-- Best model achieved MAE of **2.30 minutes** for delay prediction
-- SHAP analysis identified the most relevant operational variables affecting delays  
-[View Project](https://github.com/Vanessa22400/Railway_Delay_Advanced_Analysis_DB)
+- 24k+ records analyzed (12 months of operations)
+- **Stage 1**: applied EDA, hypothesis testing, Random Forest regression and classification models for critical delay prediction (**82% accuracy**)
+- **Stage 2**: compared gradient boosting models (XGBoost, LightGBM, CatBoost) and feature engineering strategies, achieving **MAE of 2.30 minutes**
+- SHAP explainability analysis identified the most relevant operational variables affecting railway delays  
+[Stage 1 Project](https://github.com/Vanessa22400/Railway_Delay-Analysis_DB) | [Stage 2 Project](https://github.com/Vanessa22400/Railway_Delay_Advanced_Analysis_DB)
 
 ### Insurance Claim Risk Analytics + Interactive Simulator
 Healthcare analytics project focused on high-cost claim prediction and risk-oriented decision support.
