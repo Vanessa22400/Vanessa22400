@@ -34,7 +34,7 @@ Healthcare analytics project focused on high-cost claim prediction and risk-orie
 ### Preventive Health Analytics + AI Assistant
 Analysis of healthcare cost drivers to support prevention strategies using statistical methods and machine learning
 - SQL analysis, clustering and risk segmentation identified high-risk healthcare profiles
-- Causal nference with Propensity Score Matching and A/B testing to evaluate prevention interventions
+- Causal inference (Propensity Score Matching) and A/B testing to evaluate prevention interventions
 - Developed a RAG-based assistant integrating analytical insights with external health information  
 [View Project + AI Assistant](https://github.com/Vanessa22400/Preventive_Health_Analytics)
 
