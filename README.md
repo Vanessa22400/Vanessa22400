@@ -1,14 +1,12 @@
 # Vanessa Donato
-Data Analyst | Python • SQL • Analytics | Machine Learning  
+
+Data Scientist | Analytics | Measurement & Insights | Python • SQL • Machine Learning
+
+Data Scientist with a background in Production Engineering, focused on transforming complex data into actionable insights through analytics, statistical analysis, machine learning and interactive data applications to support measurement and data-driven decision-making.
+
 LinkedIn: https://www.linkedin.com/in/vanessadonato/ 
 
-
 ---
-Data Analyst with a background in Production Engineering, focused on transforming data into actionable insights.  
-
-Experience working with Python, SQL, statistical analysis and machine learning to explore patterns, analyze business metrics and support data-driven decision-making.
-
-Also experienced in building interactive data applications to translate analytical insights into practical tools.
 
 ## Projects
 
@@ -20,27 +18,28 @@ First stage of a two-part analysis of railway delays to understand punctuality p
 [View Project](https://github.com/Vanessa22400/Railway_Delay-Analysis_DB)
 
 ### Railway Delay Prediction & Explainability - Tübingen, Germany
-Continuation of the previous project with advanced machine learning models and SHAP analysis to improve delay prediction and interpret key drivers.  
-- Boosting models (XGBoost, LightGBM, CatBoost)
-- Feature engineering and model comparison
-- Best model achieved MAE of 2.30 minutes for delay prediction  
+Continuation of the previous project with advanced machine learning models to improve delay prediction and interpret key drivers.  
+- Compared boosting models (XGBoost, LightGBM, CatBoost) and feature engineering strategies
+- Best model achieved MAE of 2.30 minutes for delay prediction
+- SHAP analysis identified the most relevant operational variables affecting delays
+
 [View Project](https://github.com/Vanessa22400/Railway_Delay_Advanced_Analysis_DB)
 
 ### Insurance Claim Risk Analytics + Interactive Simulator
-Analysis of healthcare cost drivers and high-cost claim risk using data analytics and machine learning.
-- Smoking increases costs by ~$23,500 per year (~4x higher), driving high-cost claims  
-- Risk and customer segmentation reveal distinct behavioral profiles and cost concentration 
-- Regression, Random Forest and classification models support cost prediction and claim risk detection  
-- Threshold tuning improves decision-making by balancing detection and false alerts
-- Built an interactive Streamlit application to simulate cost prediction and highlight prevention-oriented insights 
+Healthcare analytics project focused on high-cost claim prediction and risk-oriented decision support.
+- Smoking increased healthcare costs by  **$23,500 annually (~4x higher)**, driving high-cost claims
+- Random Forest classification achieved approximately **0.96 precision** in identifying high-risk claims
+- Applied threshold tuning and risk segmentation to improve decision-making and support cost prediction strategies
+- Developed an interactive Streamlit simulator for prevention-oriented analytical insights  
 [Analytics Project](https://github.com/Vanessa22400/Insurance_Risk_Analytics) | [Interactive App](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
-### Preventive Health Analytics
-Analysis of healthcare cost drivers to support prevention strategies and population health insights using statistical methods and machine learning to support prevention strategies.
-- Clustering (K-Means) and risk segmentation highlighting behavioral patterns and opportunities for preventive interventions
-- Causal inference (Propensity Score Matching) estimates ~$23,500 annual impact  
-- Insights support long-term cost reduction and improved population health outcomes  
-[View Project](https://github.com/Vanessa22400/Preventive_Health_Analytics)
+### Preventive Health Analytics + AI Assistant
+Analysis of healthcare cost drivers to support prevention strategies using statistical methods, machine learning, causal inference and AI-assisted analytical insights.
+- SQL analysis, clustering and risk segmentation identified high-risk healthcare profiles
+- Propensity Score Matching and A/B testing concepts to evaluate prevention-oriented interventions
+- Developed a RAG-based assistant integrating analytical insights with external health information  
+
+[View Project + AI Assistant](https://github.com/Vanessa22400/Preventive_Health_Analytics)
 
 ### Rental Price Forecasting - Rio de Janeiro
 Time series analysis to understand long-term rental price trends and support housing market insights.
@@ -52,12 +51,12 @@ Time series analysis to understand long-term rental price trends and support hou
 
 ## Tools & Technologies
 
-- Python (Pandas, NumPy, Scikit-learn), SQL  
-- Machine Learning (regression, classification, clustering), Gradient Boosting (XGBoost, LightGBM, CatBoost), Feature Engineering, Model Evaluation
-- EDA, Statistical Analysis, Business Metrics  
-- Power BI, Matplotlib, Seaborn, Plotly
-- Streamlit (interactive applications, deployment)
-- Git, GitHub, BigQuery, Excel  
+- Python (Pandas, NumPy, Scikit-learn), SQL, BigQuery
+- Machine Learning: regression, classification, clustering, gradient boosting (XGBoost, LightGBM, CatBoost), feature engineering, model evaluation
+- Statistical Analysis, EDA, Experiment Design, Causal Inference, Business Analytics
+- Plotly, Matplotlib, Power BI, Streamlit
+- Git, GitHub, Excel
+
 
  ## Languages
 
