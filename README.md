@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/vanessadonato/
 First stage of a two-part analysis of railway delays to understand punctuality patterns and passenger impact in the German railway network (Deutsche Bahn).  
 - 24k+ records analyzed (12 months of operations)
 - EDA, hypothesis testing, Random Forest modeling
-- Achieved 82% accuracy in predicting critical delays  
+- Achieved **82% accuracy** in predicting critical delays  
 [View Project](https://github.com/Vanessa22400/Railway_Delay-Analysis_DB)
 
 ### Railway Delay Prediction & Explainability - Tübingen, Germany
@@ -32,9 +32,9 @@ Healthcare analytics project focused on high-cost claim prediction and risk-orie
 [Analytics Project](https://github.com/Vanessa22400/Insurance_Risk_Analytics) | [Interactive App](https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main)
 
 ### Preventive Health Analytics + AI Assistant
-Analysis of healthcare cost drivers to support prevention strategies using statistical methods, machine learning, causal inference and AI-assisted analytical insights.
+Analysis of healthcare cost drivers to support prevention strategies using statistical methods and machine learning
 - SQL analysis, clustering and risk segmentation identified high-risk healthcare profiles
-- Propensity Score Matching and A/B testing concepts to evaluate prevention-oriented interventions
+- Causal nference with Propensity Score Matching and A/B testing to evaluate prevention interventions
 - Developed a RAG-based assistant integrating analytical insights with external health information  
 [View Project + AI Assistant](https://github.com/Vanessa22400/Preventive_Health_Analytics)
 
