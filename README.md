@@ -50,7 +50,7 @@ Socioeconomic and educational analysis focused on identifying vulnerable educati
 Time series analysis to understand long-term rental price trends and support housing market insights.
 - 16 years of rental data analyzed (2010–2025)
 - Applied ARIMA modeling and trend decomposition techniques
-- Forecast suggests rental prices may reach ~**R$60/m²** by **2027**  
+- Forecast suggests rental prices may reach ~**R$60/m²** by 2027  
 [View Project](https://github.com/Vanessa22400/Rental_Price_Forecast_Rio_de_Janeiro)
 
 
