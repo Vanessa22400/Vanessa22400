@@ -11,8 +11,7 @@ LinkedIn: https://www.linkedin.com/in/vanessadonato/
 ## Projects
 
 ### Railway Delay Analysis & Predictive Modeling + Explainability - Tübingen, Germany
-Two-stage analytics and machine learning project analyzing delays and predicting operational disruption patterns in the German railway network (Deutsche Bahn).
-
+Two-stage analytics and machine learning project analyzing delays and predicting operational disruption patterns in the German railway network (Deutsche Bahn).  
 - 24k+ records analyzed (12 months of operations)
 - **Stage 1**: applied EDA, hypothesis testing, Random Forest regression and classification models for critical delay prediction (**82% accuracy**)
 - **Stage 2**: compared gradient boosting models (XGBoost, LightGBM, CatBoost) and feature engineering strategies, achieving **MAE of 2.30 minutes**
