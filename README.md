@@ -42,7 +42,7 @@ Socioeconomic and educational analysis focused on identifying vulnerable educati
 - Developed clustering, vulnerability scoring, prioritization models and interactive monitoring dashboards  
 [View Project + Interactive Dashboard](https://github.com/Vanessa22400/Education_Performance_Analysis)
 
-### Rental Price Forecasting - Rio de Janeiro
+### Rental Price Forecasting in Rio de Janeiro
 Time series analysis to understand long-term rental price trends and support housing market insights.
 - 16 years of rental data analyzed (2010–2025)
 - Applied ARIMA modeling and trend decomposition techniques
