@@ -33,7 +33,7 @@ Analysis of healthcare cost drivers to support prevention strategies using stati
 - Developed a RAG-based assistant integrating analytical insights with external health information  
 [View Project + AI Assistant](https://github.com/Vanessa22400/Preventive_Health_Analytics)
 
-### Edutation Intervention in Brazil + Interactive Dashboard
+### Education Intervention in Brazil + Interactive Dashboard
 
 Socioeconomic and educational analysis focused on identifying vulnerable educational contexts and supporting data-driven educational decision-making in Brazil.
 - **Ceará** achieved the highest public education performance (**264.6**) despite belonging to a historically more vulnerable region
