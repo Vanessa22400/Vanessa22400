@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/vanessadonato/
 
 ## Projects
 
-### Marketing Measurement & Incrementality Analysis — DACH Region
+### Marketing Measurement & Incrementality Analysis - DACH Region
 End-to-end measurement framework simulating the workflow of a Measurement Implementation
 Expert supporting Google Ads campaigns across Germany, Austria and Switzerland.
 - **Conversion Lift study** across 10,000 users identified **+50.0% incremental lift**
