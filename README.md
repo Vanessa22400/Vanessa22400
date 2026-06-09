@@ -10,6 +10,21 @@ LinkedIn: https://www.linkedin.com/in/vanessadonato/
 
 ## Projects
 
+### Marketing Measurement & Incrementality Analysis — DACH Region
+End-to-end measurement framework simulating the workflow of a Measurement Implementation
+Expert supporting Google Ads campaigns across Germany, Austria and Switzerland.
+- **Conversion Lift study** across 10,000 users identified **+50.0% incremental lift**
+  in Switzerland (statistically significant, p = 0.0459) and **-16.4% negative lift**
+  in Germany, reflecting documented consumer skepticism toward digital advertising
+- **MMM with Adstock transformation** explained **76.8% of revenue variance** (R² = 0.768)
+  across 4 channels over 3 years of daily data
+- **SQL analytics** (CTEs, Window Functions, efficiency segmentation) confirmed Switzerland
+  as the top-performing market in **100% of months** analyzed
+- ROI gap of **4x between Switzerland (1,144%) and Germany (291%)** with equal spend,
+  supporting a data-driven budget reallocation recommendation
+
+[View Project](https://github.com/Vanessa22400/Marketing_Measurement_Incrementality_Analysis/tree/main)
+
 ### Railway Delay Analysis & Predictive Modeling + Explainability - Tübingen, Germany
 Two-stage analytics and machine learning project analyzing delays and predicting operational disruption patterns in the German railway network (Deutsche Bahn).  
 - 24k+ records analyzed (12 months of operations)
