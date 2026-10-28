@@ -10,20 +10,27 @@ LinkedIn: https://www.linkedin.com/in/vanessadonato/
 
 ## Projects
 
-### Marketing Measurement & Incrementality Analysis - DACH Region
-End-to-end measurement framework simulating the workflow of a Measurement Implementation
-Expert supporting Google Ads campaigns across Germany, Austria and Switzerland.
-- **Conversion Lift study** across 10,000 users identified **+50.0%** incremental lift
-  in Switzerland (statistically significant, p = 0.0459) and **-16.4%** negative lift
-  in Germany, reflecting documented consumer skepticism toward digital advertising
-- **MMM with Adstock transformation** explained **76.8%** of revenue variance (R² = 0.768)
-  across 4 channels over 3 years of daily data
-- **SQL analytics** (CTEs, Window Functions, efficiency segmentation) confirmed Switzerland
-  as the top-performing market in **100%** of months analyzed
-- ROI gap of **4x** between Switzerland (**1,144%**) and Germany (**291%**) with equal spend,
-  supporting a data-driven budget reallocation recommendation
+### Supply Chain Analytics | Forecasting, Optimization & Operations Research
+
+End-to-end retail analytics project combining demand forecasting, mathematical optimization, risk simulation and business decision support across **180K+ transactional records**.
+
+- **Demand Forecasting & MLflow:** compared forecasting methods using 20-week walk-forward validation, achieving **7.4% WAPE** with product-level model selection and experiment tracking.
+- **Linear Programming (PuLP):** optimized simulated stock transfers and purchases, identifying **50.2% potential replenishment cost savings** ($3,285) and developing a reusable **Optimization POC**.
+- **Monte Carlo Simulation:** evaluated demand uncertainty across 1,000 scenarios, identifying stock shortages in **91.3% of simulated scenarios**.
+- **Business & AI Analytics:** applied RFM segmentation, profitability analysis and **LLM Response Evaluation** with structured human feedback to support decision-making.
+
+[View Project](https://github.com/Vanessa22400/supply-chain-analytics)
+
+### Marketing Measurement & Incrementality Analysis | DACH Region
+
+End-to-end marketing measurement project simulating Google Ads campaign evaluation across Germany, Austria and Switzerland.
+
+- **Conversion Lift & Statistical Testing:** simulated a 10,000-user experiment, identifying **+50.0% lift in Switzerland** (p = 0.0459) and **-16.4% in Germany** (not statistically significant).
+- **Marketing Mix Modeling (MMM):** applied Adstock and regression modeling, achieving **R² = 0.768**; SQL analytics identified Switzerland as the top-ROI market across all 36 months.
+- **ROI & Budget Optimization:** identified a nearly **4x ROI difference** between Switzerland (1,144%) and Germany (291%), supporting simulated budget reallocation recommendations.
 
 [View Project](https://github.com/Vanessa22400/Marketing_Measurement_Incrementality_Analysis/tree/main)
+
 
 ### Railway Delay Analysis & Predictive Modeling + Explainability - Tübingen, Germany
 Two-stage analytics and machine learning project analyzing delays and predicting operational disruption patterns in the German railway network (Deutsche Bahn).  
