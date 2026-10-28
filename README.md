@@ -1,6 +1,6 @@
 # Vanessa Donato
 
-Data Scientist | Analytics | Measurement & Insights | Python • SQL • Machine Learning
+Data Scientist | Data Analyst | Business Analytics & Optimization | Python • SQL • Machine Learning
 
 Data Scientist with a background in Production Engineering, focused on transforming complex data into actionable insights through analytics, statistical analysis, machine learning and interactive data applications to support measurement and data-driven decision-making.  
 
